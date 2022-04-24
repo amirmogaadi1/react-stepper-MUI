@@ -1,0 +1,36 @@
+.stepper-header{
+    box-shadow: 0px 4px 4px rgba(33, 37, 41, 0.2), 0px 0px 1px rgba(33, 37, 41, 0.32);
+    border-radius: 5px;
+}
+span.css-ascpo7-MuiStepLabel-root.MuiStepLabel-alternativeLabel 
+{
+    flex-direction: row;
+}
+span.css-qivjh0-MuiStepLabel-label.MuiStepLabel-alternativeLabel{
+    margin-top: 0%;
+    text-transform: uppercase;
+
+}
+span.css-vnkopk-MuiStepLabel-iconContainer.MuiStepLabel-alternativeLabel{
+    padding-right: 8px;
+
+}
+div.css-n7tliy-MuiStep-root{
+    position: static;
+}
+div.css-sp7t83{
+    display: flex;
+    justify-content: space-between;
+}
+text.css-117w1su-MuiStepIcon-text{
+    fill: black;
+}
+svg.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root {
+    color: transparent;
+    border: 1px solid #8E8F92;
+    border-radius: 50%;
+}
+svg.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-active {
+    color: transparent;
+    border: 1px solid #007AFF;
+}
